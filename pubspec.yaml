@@ -14,10 +14,10 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-flutter:
-  plugin:
-    android:
-      package: com.lykhonis.simpleimagecrop
-      pluginClass: SimpleImageCropPlugin
-    ios:
-      pluginClass: SimpleImageCropPlugin
+# flutter:
+#   plugin:
+#     android:
+#       package: com.lykhonis.simpleimagecrop
+#       pluginClass: SimpleImageCropPlugin
+#     ios:
+#       pluginClass: SimpleImageCropPlugin
